@@ -4,3 +4,5 @@ This is the shortest version of my style of work with Python and HTML on VS Code
 ![Power BI Page 1](src/Power%BI_1.png) <br>
 
 ![Power BI Page 2](src/Power%BI_2.png)
+
+![02-Payment Method](src/02-Payment%Method.png)

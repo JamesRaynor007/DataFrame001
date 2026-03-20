@@ -5,4 +5,4 @@ This is the shortest version of my style of work with Python and HTML on VS Code
 
 ![Power BI Page 2](src/PowerBI_2.png)
 
-![02-Payment Method](src/02-Payment%Method.png)
+![02-Payment Method](src/02-PaymentMethod.png)
